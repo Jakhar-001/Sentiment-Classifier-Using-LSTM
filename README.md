@@ -20,7 +20,7 @@ This project is a text sentiment classifier built using an LSTM model. The model
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/naveennokhwal/Sentiment-Analysis-LSTM.git
+   git clone https://github.com/Jakhar-001/Sentiment-Analysis-LSTM.git
    cd Sentiment-Analysis-LSTM
    ```
 
@@ -62,8 +62,3 @@ python model/evaluate.py
 Contributions are welcome! Feel free to submit issues or pull requests.
 
 ---
-
-For questions or feedback, please contact:
-
-- Naveen Nokhwal
-- Email: b22bb046@iitj.ac.in
